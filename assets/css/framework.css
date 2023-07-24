@@ -149,6 +149,14 @@
     justify-content: center;
 }
 
+.jc_spaceb {
+    justify-content: space-between;
+}
+
+.jc_space-ar {
+    justify-content: space-around;
+}
+
 .ai_center {
     align-items: center;
 }
