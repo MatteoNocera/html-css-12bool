@@ -1,0 +1,14 @@
+[class^="col-"] {
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(45, 41, 238);
+    padding: 1rem 0.5rem;
+    height: 60px;
+}
+
+#neasted {
+    background-color: rgb(23, 237, 23);
+    border: 1px solid rgb(45, 41, 238);
+    height: 100%;
+}
